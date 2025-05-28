@@ -1,4 +1,4 @@
-# Customer-Shopping-Trends-Analysis
+
 # 🛍️ Customer Shopping Trends Analysis
 
 This repository showcases an interactive Power BI dashboard project that analyzes customer shopping behavior based on demographic, seasonal, and product-based insights. The project is designed to help businesses understand consumer preferences and improve decision-making strategies.
