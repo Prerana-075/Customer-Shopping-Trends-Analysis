@@ -49,7 +49,7 @@ The dashboard visualizes trends related to customer demographics, product catego
 
 ## 📸 Dashboard Preview
 
-![Customer Shopping Trends Dashboard](visuals/dashboard_screenshot.png)
+https://1drv.ms/i/c/c3028655c4e1af0b/EVH-UY7Si-dJsieTfNpYEQoBP-ZkLNJmgxtfS4y-yJzf4Q?e=wggSXD
 
 ---
 
