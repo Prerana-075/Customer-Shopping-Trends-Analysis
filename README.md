@@ -56,7 +56,7 @@ https://1drv.ms/i/c/c3028655c4e1af0b/EVH-UY7Si-dJsieTfNpYEQoBP-ZkLNJmgxtfS4y-yJz
 ## 📩 Contact
 
 Created by **Prerana Yadav**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email for collaboration or feedback.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/preranayadav) or reach out via email for collaboration or feedback.
 
 ---
 
