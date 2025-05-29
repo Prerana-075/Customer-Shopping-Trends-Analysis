@@ -30,7 +30,7 @@ The dashboard visualizes trends related to customer demographics, product catego
 
 ## 📚 Insights Summary
 
-- **75% of total revenue** comes from male customers.
+- **67% of total revenue** comes from male customers.
 - Customers aged **51-60** contribute the most in purchase amount.
 - Top categories: **Clothing, Accessories, Footwear**.
 - Most purchased items include **Blouses, Jewelry, Pants, Shirts**.
